@@ -1,0 +1,19 @@
+body{
+  font-family: Times New Roman;
+}
+.r{
+  border: 2px solid red;
+  padding: 10px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px ;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.e{
+  border: 2px solid red;
+  padding: 10px;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 20px ;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 40px;
+}
